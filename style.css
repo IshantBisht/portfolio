@@ -1,0 +1,28 @@
+h1 {
+                color: brown;
+            }
+
+            * {
+                border: solid;
+            }
+.header {
+    background-color: aliceblue;
+    display:flex;
+    justify-content:space-between;
+}
+.description{
+    background-color:aquamarine;
+}
+
+.games{background-color:brown;
+display:flex;
+flex-wrap:wrap;
+justify-content: space-evenly;
+}
+
+.footer{
+    background-color:bisque;
+    display:flex;
+    justify-content: flex-end;
+}
+        
